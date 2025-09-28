@@ -3,11 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Distribution / packaging
-dist/
-build/
-*.egg-info/
+# OS specific files
+.DS_Store
 
+# Virtual environments
+.env
 # Virtual environments
 venv/
 env/
